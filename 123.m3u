@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="#2746 Rupavahini TV" tvg-logo="" group-title="General Streams",#2746 Rupavahini TV
 http://xcmain.mine.nu:8080/live/teststr/test/913.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="#2744 Derana TV" tvg-logo="" group-title="General Streams",#2744 Derana TV
 http://xcmain.mine.nu:8080/live/teststr/test/912.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="#2753 DAN Music" tvg-logo="" group-title="General Streams",#2753 DAN Music
+http://xcmain.mine.nu:8080/live/teststr/test/1316.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="#2751 DAN TV" tvg-logo="" group-title="General Streams",#2751 DAN TV
+http://xcmain.mine.nu:8080/live/teststr/test/1315.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="#2749 ITN" tvg-logo="" group-title="General Streams",#2749 ITN
+http://xcmain.mine.nu:8080/live/teststr/test/914.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="#2748 Nethra TV" tvg-logo="" group-title="General Streams",#2748 Nethra TV
+http://xcmain.mine.nu:8080/live/teststr/test/1554.m3u8
