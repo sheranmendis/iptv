@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="#2746 Rupavahini TV" tvg-logo="" group-title="General Streams",#2746 Rupavahini TV
+http://xcmain.mine.nu:8080/live/teststr/test/913.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="#2744 Derana TV" tvg-logo="" group-title="General Streams",#2744 Derana TV
+http://xcmain.mine.nu:8080/live/teststr/test/912.m3u8
